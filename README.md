@@ -1,6 +1,11 @@
 # Breast-Cancer-Detection-using-Deep-Learning-Frameworks
 Automated Breast Cancer Imaging Attention UNet Segmentation and CNN Classification
 
+**About Dataset:**
+
+The Breast Ultrasound Images Dataset [16] is a valuable resource for classification, detection, and segmentation of breast cancer using ultrasound scans. It provides medical images that contribute to the early detection of breast cancer, ultimately reducing mortality rates among women globally. Categorized into three classes—normal, benign, and malignant—this dataset offers diverse examples for accurate analysis.
+The dataset includes breast ultrasound images obtained from 600 female patients aged between 25 and 75 years old. Collected in 2018, the dataset comprises 780 images in PNG format, with an average size of 500x500 pixels. Ground truth images are provided alongside the original images, facilitating precise evaluations.
+
 
 Data loading & Pre-processing
 
