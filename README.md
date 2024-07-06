@@ -7,25 +7,23 @@ The Breast Ultrasound Images Dataset [16] is a valuable resource for classificat
 The dataset includes breast ultrasound images obtained from 600 female patients aged between 25 and 75 years old. Collected in 2018, the dataset comprises 780 images in PNG format, with an average size of 500x500 pixels. Ground truth images are provided alongside the original images, facilitating precise evaluations.
 
 
-Data loading & Pre-processing
-
+**Data loading & Pre-processing**
 ![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/a253a670-de4f-4de1-b047-47e1eacc80da)
 
 
-Encoder Decoder Block
+**Encoder Decoder Block**
 
 ![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/fc7b738d-e051-45ff-afe8-e9df171f7667)
 
 
-Attention Gate
+**Attention Gate**
 
 ![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/c9f83bc5-02b9-48b6-b762-af2e403ae748)
 
-UNet Architecture
+**UNet Architecture**
 
 ![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/52e1f73c-844f-480f-b294-708c5d90af80)
 
 
-Full Architecture
-
+**Full Architecture**
 ![Full_Architecture](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/011431a4-5865-4ad4-8f14-7745d57258c9)
