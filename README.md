@@ -8,21 +8,23 @@ The dataset includes breast ultrasound images obtained from 600 female patients 
 
 
 **Data loading & Pre-processing**
-![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/a253a670-de4f-4de1-b047-47e1eacc80da)
+![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/edd5f984-4542-482a-8a6c-fba4e1d20258)
 
 
 **Encoder Decoder Block**
-
-![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/fc7b738d-e051-45ff-afe8-e9df171f7667)
+![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/5d316186-5bc8-4f78-b164-65615bae920f)
 
 
 **Attention Gate**
+![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/6ec76a83-9ea9-4dcf-88cb-a2d0b31ce0ee)
 
-![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/c9f83bc5-02b9-48b6-b762-af2e403ae748)
+
 
 **UNet Architecture**
+![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/459fd33f-22ba-4551-bf52-bb55e709376b)
 
-![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/52e1f73c-844f-480f-b294-708c5d90af80)
+**CNN Architecture**
+![image](https://github.com/soumyapandit0415/Breast-Cancer-Detection-using-Deep-Learning-Frameworks/assets/91374416/ac580821-ec12-4806-abc0-5b2a48c3fccd)
 
 
 **Full Architecture**
